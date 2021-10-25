@@ -1,0 +1,18 @@
+body {
+    background: url("https://images.snapwi.re/6cb7/589d3f85321174bb0a7b23c6.w800.jpg");
+    display: flex;
+    margin-top: 300px;
+    justify-content: center;
+}
+
+#Tic-Tac-Container {
+    display: flex;
+    background-color: white;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 300px;
+    opacity: 0.8;
+    border: solid purple 3px;
+}
